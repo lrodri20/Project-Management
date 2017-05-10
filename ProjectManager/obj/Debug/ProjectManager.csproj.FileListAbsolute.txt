@@ -1,0 +1,25 @@
+c:\users\william_2\documents\visual studio 2012\Projects\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe.config
+c:\users\william_2\documents\visual studio 2012\Projects\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe
+c:\users\william_2\documents\visual studio 2012\Projects\ProjectManager\ProjectManager\bin\Debug\ProjectManager.pdb
+c:\users\william_2\documents\visual studio 2012\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csprojResolveAssemblyReference.cache
+c:\users\william_2\documents\visual studio 2012\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.Properties.Resources.resources
+c:\users\william_2\documents\visual studio 2012\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.GenerateResource.Cache
+c:\users\william_2\documents\visual studio 2012\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.exe
+c:\users\william_2\documents\visual studio 2012\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
+c:\users\william_2\documents\visual studio 2012\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.LoginForm.resources
+c:\users\william_2\documents\visual studio 2012\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.ManagementForm.resources
+C:\Users\William_2\documents\visual studio 2012\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.EmployeeForm.resources
+C:\Users\William_2\documents\visual studio 2012\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.CreateForm.resources
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe.config
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\obj\Debug\ProjectManager.exe
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\bin\Debug\ProjectManager.pdb
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csprojResolveAssemblyReference.cache
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\obj\Debug\ProjectManager.CreateForm.resources
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\obj\Debug\ProjectManager.EmployeeForm.resources
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\obj\Debug\ProjectManager.LoginForm.resources
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\obj\Debug\ProjectManager.ManagementForm.resources
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\obj\Debug\ProjectManager.Properties.Resources.resources
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.GenerateResource.Cache
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\bin\Debug\Resources\ProjectDatabase.xml

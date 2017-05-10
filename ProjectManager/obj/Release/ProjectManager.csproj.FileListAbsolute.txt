@@ -1,0 +1,12 @@
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\bin\Release\ProjectManager.exe.config
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\bin\Release\Resources\ProjectDatabase.xml
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\bin\Release\ProjectManager.exe
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\bin\Release\ProjectManager.pdb
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\obj\Release\ProjectManager.CreateForm.resources
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\obj\Release\ProjectManager.EmployeeForm.resources
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\obj\Release\ProjectManager.LoginForm.resources
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\obj\Release\ProjectManager.ManagementForm.resources
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\obj\Release\ProjectManager.Properties.Resources.resources
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\obj\Release\ProjectManager.csproj.GenerateResource.Cache
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\obj\Release\ProjectManager.exe
+C:\Users\wstory1\Desktop\ProjectManager\ProjectManager\ProjectManager\obj\Release\ProjectManager.pdb

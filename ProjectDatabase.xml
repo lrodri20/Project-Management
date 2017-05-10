@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Employees>
+  <Employee UserName="Name" Password="xxx" Admin="True">
+   <AssignedProjects>
+    <ProjectID ID="1" TotalHours="0" />
+   </AssignedProjects>
+  </Employee>
+  <Employee UserName="UName" Password="xxx" Admin="False">
+   <AssignedProjects>
+    <ProjectID ID="1" TotalHours="0" />
+   </AssignedProjects>
+  </Employee>
+ </Employees>
+ <Projects>
+  <Project ID="1" Name="Name" ProjOwner="David" ManHours="50" TestHours="2" CodeHours="3" DesignHours="4" AnalysisHours="5">
+   <ProjectDescription>
+    <ProjectDescription> asdasd</ProjectDescription>
+    <Requirements ID="1" Type="Severe" />
+    <Risks ID="1" Severity="Crit" />
+    <Description>This is a test description</Description>
+   </ProjectDescription>
+  </Project>
+  <Project ID="2" Name="Name" ProjOwner="David" ManHours="1" TestHours="2" CodeHours="3" DesignHours="4" AnalysisHours="5">
+   <ProjectDescription>
+    <ProjectDescription> </ProjectDescription>
+   </ProjectDescription>
+  </Project>
+ </Projects>
+</ProjectDatabase>
